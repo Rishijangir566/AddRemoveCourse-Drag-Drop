@@ -92,5 +92,5 @@ h1 {
 }
 
 #addList li {
-  cursor: move;
+  cursor: pointer;
 }
